@@ -23,7 +23,6 @@
 💡 相信：小步迭代、可读代码、可复现的结果
 ```
 
-- 🔭 正在维护 **[DataMind](https://github.com/zhk0567/DataMind)** —— SPSSPRO 风格的纯 Python 数据分析项目
 - 🌱 近期活跃于 **Framework**、**Algorithm**、**Intelligent-Learning-Terminal**、**Zhita**
 - 📫 欢迎通过 Issue / Discussion 交流，或通过下方方式联系我
 - ⚡ 趣味事实：GitHub 从 **2023** 年起记录我的每一次 commit
@@ -37,7 +36,7 @@
 | **语言** | Python · Kotlin · Java · JavaScript/TypeScript |
 | **Web** | HTML · CSS · React |
 | **数据 & AI** | Pandas · 统计分析 · Kaggle 实践 |
-| **工具** | Git · Docker · Linux |
+| **工具** | Git · Linux |
 
 ---
 
