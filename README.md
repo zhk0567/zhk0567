@@ -66,7 +66,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-zhk0567-181717?style=for-the-badge&logo=github)](https://github.com/zhk0567)
-[![Email](https://img.shields.io/badge/Email-3283409866@qq.com-D14836?style=for-the-badge&logo=qq)](mailto:3283409866@qq.com)
+[![Email](https://img.shields.io/badge/QQ邮箱-3283409866@qq.com-12B7F5?style=for-the-badge&logo=mail&logoColor=white)](mailto:3283409866@qq.com)
 
 <br/>
 
