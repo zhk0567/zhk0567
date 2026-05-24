@@ -10,7 +10,7 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Repos](https://img.shields.io/badge/公开仓库-14-36BCF7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhk0567?tab=repositories)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users%2Fzhk0567&query=%24.public_repos&label=公开仓库&style=for-the-badge&logo=github&color=36BCF7&cacheSeconds=3600&v=17)](https://github.com/zhk0567?tab=repositories)
 
 </div>
 
