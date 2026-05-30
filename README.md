@@ -10,7 +10,9 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users%2Fzhk0567&query=%24.public_repos&label=公开仓库&style=for-the-badge&logo=github&color=36BCF7&cacheSeconds=3600&v=17)](https://github.com/zhk0567?tab=repositories)
+<!-- profile:header-repos -->
+[![Repos](https://img.shields.io/badge/公开仓库-20-36BCF7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhk0567?tab=repositories)
+<!-- /profile:header-repos -->
 
 </div>
 
@@ -44,10 +46,12 @@
 
 ### 📊 GitHub
 
+<!-- profile:github-stats -->
 [![Followers](https://img.shields.io/github/followers/zhk0567?label=Followers&style=flat-square&logo=github&logoColor=white&color=36BCF7)](https://github.com/zhk0567?tab=followers)
-[![Following](https://img.shields.io/badge/Following-1-6C63FF?style=flat-square&logo=github&logoColor=white)](https://github.com/zhk0567?tab=following)
-[![Repos](https://img.shields.io/badge/Repos-14-36BCF7?style=flat-square&logo=github&logoColor=white)](https://github.com/zhk0567?tab=repositories)
+[![Following](https://img.shields.io/github/following/zhk0567?label=Following&style=flat-square&logo=github&logoColor=white&color=6C63FF)](https://github.com/zhk0567?tab=following)
+[![Repos](https://img.shields.io/badge/Repos-20-36BCF7?style=flat-square&logo=github&logoColor=white)](https://github.com/zhk0567?tab=repositories)
 [![Algorithm](https://img.shields.io/badge/活跃仓库-Algorithm-6C63FF?style=flat-square&logo=github&logoColor=white)](https://github.com/zhk0567/Algorithm)
+<!-- /profile:github-stats -->
 
 ---
 
