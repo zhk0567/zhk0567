@@ -24,6 +24,10 @@
 💡 相信：小步迭代、可读代码、可复现的结果
 ```
 
+- 🌱 近期活跃于 **Framework**、**Algorithm**、**Intelligent-Learning-Terminal**、**Zhita**
+- 📫 欢迎通过 Issue / Discussion 交流，或通过下方方式联系我
+- ⚡ 趣味事实：GitHub 从 **2023** 年起记录我的每一次 commit
+
 ---
 
 ### 🛠️ 技术栈
