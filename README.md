@@ -10,9 +10,6 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-<!-- profile:header-repos -->
-[![Repos](https://img.shields.io/badge/公开仓库-20-36BCF7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhk0567?tab=repositories)
-<!-- /profile:header-repos -->
 
 </div>
 
@@ -27,10 +24,6 @@
 💡 相信：小步迭代、可读代码、可复现的结果
 ```
 
-- 🌱 近期活跃于 **Framework**、**Algorithm**、**Intelligent-Learning-Terminal**、**Zhita**
-- 📫 欢迎通过 Issue / Discussion 交流，或通过下方方式联系我
-- ⚡ 趣味事实：GitHub 从 **2023** 年起记录我的每一次 commit
-
 ---
 
 ### 🛠️ 技术栈
@@ -40,18 +33,9 @@
 | **语言** | Python · Kotlin · Java · JavaScript/TypeScript |
 | **Web** | HTML · CSS · React |
 | **数据 & AI** | Pandas · 统计分析 · Kaggle 实践 |
+| **AI 编程** | Cursor · Claude Code · dsh · cc switch |
+| **常用模型** | DeepSeek · Grok · GLM · Composer |
 | **工具** | Git · Linux |
-
----
-
-### 📊 GitHub
-
-<!-- profile:github-stats -->
-[![Followers](https://img.shields.io/github/followers/zhk0567?label=Followers&style=flat-square&logo=github&logoColor=white&color=36BCF7)](https://github.com/zhk0567?tab=followers)
-[![Following](https://img.shields.io/github/following/zhk0567?label=Following&style=flat-square&logo=github&logoColor=white&color=6C63FF)](https://github.com/zhk0567?tab=following)
-[![Repos](https://img.shields.io/badge/Repos-20-36BCF7?style=flat-square&logo=github&logoColor=white)](https://github.com/zhk0567?tab=repositories)
-[![Algorithm](https://img.shields.io/badge/活跃仓库-Algorithm-6C63FF?style=flat-square&logo=github&logoColor=white)](https://github.com/zhk0567/Algorithm)
-<!-- /profile:github-stats -->
 
 ---
 
